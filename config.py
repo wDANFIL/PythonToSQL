@@ -1,0 +1,4 @@
+SERVER_LIST = [
+    'HOST:TCP PORT/SID',
+    #'TEST1:8888/THESID'
+]
